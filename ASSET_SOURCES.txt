@@ -1,0 +1,28 @@
+ASSET AND DATA SOURCES
+
+ODB dataset
+Source: https://dolaxp.github.io/st-offers/data.js
+Original source bytes preserved in data.js.
+Retrieved: 2026-10-01. Count: 273309 entries / 273309 unique normalized codes.
+See source-info.json for the original SHA-256 and retrieval time.
+No assertion that the third-party list represents current official eligibility.
+
+stc logo
+Source page: https://commons.wikimedia.org/wiki/File:STC-01.svg
+Original asset: https://upload.wikimedia.org/wikipedia/commons/e/e3/STC-01.svg
+Source credited uploader: BDEIWI.
+Source page includes PD-textlogo and CC BY-SA 4.0 labels.
+License links: https://commons.wikimedia.org/wiki/Template:PD-textlogo
+https://creativecommons.org/licenses/by-sa/4.0/
+The geometry is preserved. The SVG is cleaned and the fill set to #4f008c.
+stc brand identifiers belong to their respective owner.
+The page identifies itself as an independent lookup tool.
+
+Arabic font
+IBM Plex Sans Arabic (Regular and Bold)
+https://github.com/google/fonts/tree/main/ofl/ibmplexsansarabic
+Copyright IBM Corp. / SIL Open Font License 1.1.
+Full font license: assets/OFL.txt
+
+The animations and website implementation were created for this package.
+The wordmark animation is custom and brand-inspired, not a verified reproduction of the current official website animation.
